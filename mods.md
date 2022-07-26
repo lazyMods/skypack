@@ -2,7 +2,7 @@
 
 | Name | Why | Replace | Replace reason | Depends on |
 | ----- | ---- | ------ | ------------- | ------- |
-| JEI | As humans we are not able to remember a bilion of diferent recipes etc | no | - | - |
+| JEI | As humans we are not able to remember a bilion of diferent recipes etc | no | - | Kinda depends on Configured |
 | SkyBuilder | Required for world generation | maybe | Depends on LibX | Libx |
 | Mouse Tweaks, Inventory Sorter, Contruction Wand, Open Block Elevator | Quality of life improvements | no | - | - |
 | FTB Ultimine | Ultramine is kinda cool but depends on Archictectury | maybe | Depends on Archictectury and FTB Library | FTB Library, Architectury |
@@ -41,3 +41,7 @@ Homemade mods are aimed at replacing or adding mods that I can't find or depends
 In case of use of this pack on something like GDLauncher, you may need to download the following mods since they only can be download from the original launcher or curseforge.
 
 - ExNihilo
+
+# Should I use other libs:
+
+Libraries like ClothConfig, mgui and Kotlin Support are very useful, but I don't know If I should use them for only one mod.
