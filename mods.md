@@ -35,3 +35,9 @@ Homemade mods are aimed at replacing or adding mods that I can't find or depends
 | PowerTools | Add attribute to tools that enables use of energy instead of damage |
 | Loot bags | Makes all the mobs drop the loot in bags |
 | BotaniaFE | Mana to FE |
+
+# Mods that require Curse Forge Launcher
+
+In case of use of this pack on something like GDLauncher, you may need to download the following mods since they only can be download from the original launcher or curseforge.
+
+- ExNihilo
