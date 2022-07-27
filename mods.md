@@ -35,6 +35,7 @@ Homemade mods are aimed at replacing or adding mods that I can't find or depends
 | PowerTools | Add attribute to tools that enables use of energy instead of damage |
 | Loot bags | Makes all the mobs drop the loot in bags |
 | BotaniaFE | Mana to FE |
+| Molten Ores | Liquid versions of ores |
 
 # Mods that require Curse Forge Launcher
 
