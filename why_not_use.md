@@ -11,3 +11,4 @@
 | Twilight Forest | I want this mod to be added because I like it, but I don't find a good reason to integrate it | yes |
 | Furniture Mods | I don't see decoration mods fitting on vanilla style gameplay | - |
 | Thermal Foundation and similar | For techinal modpacks they are very cool, but the amount of blocks and items added mostly end on unused land | - |
+| FTB Quest | A lot of dependencies for a simple objective | - | - | 

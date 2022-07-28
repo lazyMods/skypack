@@ -4,7 +4,7 @@
 | ----- | ---- | ------ | ------------- | ------- |
 | JEI | As humans we are not able to remember a bilion of diferent recipes etc | no | - | Kinda depends on Configured |
 | SkyBuilder | Required for world generation | maybe | Depends on LibX | Libx |
-| Mouse Tweaks, Inventory Sorter, Contruction Wand, Open Block Elevator | Quality of life improvements | no | - | - |
+| Mouse Tweaks, Inventory Sorter, Contruction Wand, Open Block Elevator, Jade | Quality of life improvements | no | - | - |
 | FTB Ultimine | Ultramine is kinda cool but depends on Archictectury | maybe | Depends on Archictectury and FTB Library | FTB Library, Architectury |
 | Sneak Tree Growing, Fast Leaf decay | Increase early game progress | no | - |- |
 | Shutup Experimental | Utility mod | no | - | - |
@@ -15,6 +15,9 @@
 | Quark | A lot of cool features and in the same line as the modpack | no | - | AutoRegLib |
 | Botania | Enables the player to create cool farms withou using "Energy" | no | - | AutoRegLib, Patchouli, Curios |
 | Neat | Mob health HUD | no | - | - |
+| Mystical Agriculture | Cool mod with both resource gathering and a good progress | no | - | Cucumber |
+| Refined Storage | Storage upgrade | no | - | - |
+| Tetra | Tool upgrades | no | - | mutil |
 
 # Homemade mods:
 
