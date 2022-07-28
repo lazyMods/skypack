@@ -2,7 +2,6 @@
 
 | Name | Why | Maybe | 
 | ----- | ---- | ---- |
-| Jade or similar | This may be useful for normal generation, but not for a world that you place every block. | - |
 | Jorney Map | After playing the all ATM6 I don't can' remember one single moment where I look at the minimap. |- |
 | Apple Skin | It's pretty cool but at the end your rarely notice it. |- |
 | JEI Plugins | Can be useful for mob drops. | yes | 
